@@ -1,6 +1,6 @@
 const TeleBot = require('telebot');
 const search = require('youtube-search');
-const bot = new TeleBot('395217544:AAH-OueyXIqYDnMBkejddDu87WMz8Ktsxwg');
+const bot = new TeleBot('your api key');
 
 const opts = {
   maxResults: 1,
