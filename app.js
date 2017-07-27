@@ -1,10 +1,10 @@
 const TeleBot = require('telebot');
 const search = require('youtube-search');
-const bot = new TeleBot('your api key');
+const bot = new TeleBot('telegram api key');
 
 const opts = {
   maxResults: 1,
-  key: 'AIzaSyBjGhQultby8-blH5QhR6GQTswxUQpZIZM'
+  key: 'youtube api key'
 };
 
 
