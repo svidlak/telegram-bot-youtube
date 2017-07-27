@@ -1,0 +1,32 @@
+{
+  "name": "svidlak-yt-bot",
+  "version": "1.0.0",
+  "description": "youtube bot for telegram. execute with \" /yt *youtube video name*",
+  "main": "app.js",
+  "dependencies": {
+    "telebot": "^1.2.2",
+    "youtube-search": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svidlak/telegram-bot-youtube.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "youtube",
+    "node",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Max Svidlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svidlak/telegram-bot-youtube/issues"
+  },
+  "homepage": "https://github.com/svidlak/telegram-bot-youtube#readme"
+}
